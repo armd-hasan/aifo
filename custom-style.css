@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(235, 230, 230);
+}
+
+
+
+h2 {
+    margin: 0%;
+}
+
+.logo {
+    width: 13%;
+    border-radius: 50%;
+}
+
+.logo-2 {
+    width: 7%;
+    border-radius: 50%;
+}
+
+.players {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.top {
+    margin-top: 6%;
+}
+
+.m-top {
+    margin-top: 5%;
+}
+
+.m-left {
+    margin-left: 30%;
+}
+
+#player-box {
+    margin-top: 100px;
+    background-color: white;
+}
+
+#course-box {
+    margin-top: 20px;
+    background-color: white;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.members {
+    margin-top: 100px;
+}
+
+@media only screen and (max-width: 990px) {
+    .top {
+        margin-top: 15%;
+    }
+
+}
